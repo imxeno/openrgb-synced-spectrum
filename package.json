@@ -1,0 +1,10 @@
+{
+  "name": "openrgb-synced-spectrum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chroma-js": "^2.4.2",
+    "openrgb-sdk": "^0.5.1"
+  }
+}
